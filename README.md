@@ -2,6 +2,9 @@
 
 [Demo](https://magenta-dragon-45c4ea.netlify.app/)
 
+![Tictac](https://github.com/DomenicoCentrone/Tic-Tac-Toe-react/assets/76876906/e64ff636-f13f-4840-b42f-d890b1e145eb)
+
+
 Un semplice gioco di Tic-Tac-Toe realizzato con React.
 
 ## Caratteristiche:
